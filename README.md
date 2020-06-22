@@ -1,21 +1,21 @@
-### This is the git project of programming for data science course
-### It is the last project of the course
-### this repository content: README.md, bikeshare.py, .gitignore, chicago.csv, new_york.csv and washington.csv
-### the .csv files are in the .gitignore file
 ### Date created
-Include the date you created this project and README file.
+18/06/2020.
 
-### Project Title
-Replace the Project Title
+### Project title
+Post your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+
+it is the last project of the course. It concerns the GIT module. they concist to create a repository on Github, to execute the tasks described in the GIT software and to fill a file with the GIT commands used.
 
 ### Files used
-Include the files used
+The files used in this project are: README.md, bikeshare.py, .gitignore, chicago.csv, new_york.csv and washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux/42693-vim-lediteur-de-texte-du-programmeur
+https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Les-branches-en-bref
+https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement
 ### Adding the bikeshare.py file
 As i did not participate in the pyton course. I just created a .py with touch command
 
